@@ -1,0 +1,37 @@
+﻿Regiao,Fonte de Energia,Media de Consumo (TWh)
+Africa,Carvao,831.52
+Africa,Petroleo,1276.7
+Africa,Gas Natural,575.78
+Africa,Nuclear,20.51
+Africa,Renovaveis,218.75
+Africa,Hidro,200.46
+Asia,Carvao,15171.19
+Asia,Petroleo,12836.56
+Asia,Gas Natural,5391.65
+Asia,Nuclear,856.19
+Asia,Renovaveis,2543.1
+Asia,Hidro,1953.74
+Europe,Carvao,7119.51
+Europe,Petroleo,11083.44
+Europe,Gas Natural,7691.62
+Europe,Nuclear,2187.06
+Europe,Renovaveis,2424.13
+Europe,Hidro,1864.97
+North America,Carvao,5030.67
+North America,Petroleo,11756.47
+North America,Gas Natural,7183.41
+North America,Nuclear,1664.75
+North America,Renovaveis,2268.2
+North America,Hidro,1720.95
+South America,Carvao,204.29
+South America,Petroleo,1895.08
+South America,Gas Natural,743.69
+South America,Nuclear,30.21
+South America,Renovaveis,1308.52
+South America,Hidro,1121.25
+Oceania,Carvao,454.81
+Oceania,Petroleo,484.17
+Oceania,Gas Natural,224.72
+Oceania,Nuclear,0.0
+Oceania,Renovaveis,135.75
+Oceania,Hidro,100.92
